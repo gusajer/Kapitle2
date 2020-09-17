@@ -16,6 +16,7 @@ public class MomsBeragner {
 
         double Moms = KoebSum * 0.25;
         System.out.println("salg Moms er DKK " + (int)(Moms * 100)/100.0);
+
     }
 
 }
